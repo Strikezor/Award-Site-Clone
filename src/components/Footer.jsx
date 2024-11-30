@@ -27,7 +27,7 @@ const Footer = () => {
           Re-Created by Akshay Chaturvedi
         </p>
 
-        <div className="flex justify-center gap-4  md:justify-start mr-[105px]">
+        <div className="flex justify-center gap-4  md:justify-start lg:mr-[105px]">
           {socialLinks.map((link, index) => (
             <a
               key={index}
@@ -45,7 +45,7 @@ const Footer = () => {
           href="#privacy-policy"
           className="text-center text-sm font-light hover:underline md:text-right"
         >
-          Privacy Policy
+          CopyRight: Zentry
         </a>
       </div>
     </footer>
