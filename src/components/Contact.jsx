@@ -38,7 +38,7 @@ const Contact = () => {
 
         <div className="flex flex-col items-center text-center">
           <p className="mb-10 font-general text-[10px] uppercase">
-            Join Zentry
+            Join Strikezor
           </p>
           <AnimatedTitle
             title="let&#39;s b<b>u</b>ild the <br /> new era of <br /> g<b>a</b>ming t<b>o</b>gether."
